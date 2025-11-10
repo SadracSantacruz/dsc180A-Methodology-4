@@ -1,3 +1,0 @@
-# dsc180A-Methodology-
-
-Testing commit...
